@@ -1,2 +1,4 @@
-# basisuitkeringsland
-400 vierkante km
+basisuitkeringsland
+===================
+
+dat niet meer bestaat
